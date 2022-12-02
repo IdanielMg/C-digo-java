@@ -20,6 +20,7 @@ public class Algoritmos {
 //            System.out.println(i);
         }
         System.out.println("hay "+ c);
+        System.out.println("Hola");
     }
     
 }
